@@ -1,4 +1,4 @@
-TITLE:Movies-App
+TITLE:Movies Site
 1. Methodology
 NodeJs, ExpressJs, EJS
 
