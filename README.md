@@ -1,5 +1,4 @@
 TITLE:Movies-App
-
 1. Methodology
 NodeJs, ExpressJs, EJS
 
